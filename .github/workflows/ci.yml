@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v3 
         with: 
           name: Triton 
-          path: core\build\libs/*.jar
+          path: core/build/libs/*.jar
